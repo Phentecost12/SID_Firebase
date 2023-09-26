@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "179921654216",
+    "firebase_url": "https://sid-5759e-default-rtdb.firebaseio.com",
+    "project_id": "sid-5759e",
+    "storage_bucket": "sid-5759e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:179921654216:android:77f1a4b463f4d5b31a30fd",
+        "android_client_info": {
+          "package_name": "com.SID.Entrega"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCdo04kSIVnTX5x6B1Ifwf-YSbpHGVMeJA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
